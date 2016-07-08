@@ -6,7 +6,7 @@
     "pyzen5 <pyzen55@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/pyzen5/sword-app",
+  "homepage": "https://github.com/pyzen5/incubeapps",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "angular": "^1.5.7",
-    "angular-ui-router": "^0.3.1"
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.6"
   }
 }
