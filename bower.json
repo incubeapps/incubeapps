@@ -1,0 +1,22 @@
+{
+  "name": "incubeapps",
+  "description": "test app",
+  "main": "",
+  "authors": [
+    "pyzen5 <pyzen55@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pyzen5/sword-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "portal/lib/bower/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-ui-router": "^0.3.1"
+  }
+}
